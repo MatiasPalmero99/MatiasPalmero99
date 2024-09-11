@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Yo soy <a href="https://github.com/MatiasPalmero99/" target="blank">
+<h1 align="center">Hola 👋, soy <a href="https://github.com/MatiasPalmero99/" target="blank">
 Matias Palmero</a></h1>
 <h3 align="center">Técnico Superior en Análisis de Sistemas Informáticos</h3>
 
